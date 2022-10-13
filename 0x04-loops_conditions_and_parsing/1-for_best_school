@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#A bash script that writes best school ten times using for loop
+# displays best school ten times using for loop
 
 for _ in $(seq 1 10)
 do 
